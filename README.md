@@ -1,4 +1,4 @@
-![logo](https://github.com/Alimbabaeva/Alimbabaeva/blob/main/WhatsApp%20Image%202023-01-26%20at%2016.30.39.jpeg)
+
 <h1 align="center">Hi 👋, I'm Nurzat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
